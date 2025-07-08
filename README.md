@@ -4,4 +4,4 @@ data is a 1 month batch of bookings
 
 objective is to monitor trains performance over time
 
-feel free to have a look and provide feedback!
+feel free to download dashboard and dive into my wiki!
